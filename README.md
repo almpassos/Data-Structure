@@ -8,6 +8,13 @@ This repository has my implementation of data struct for many programming langua
 
 # New Features!
 
+April 11th, 2017
+
+  - Add Tree data struct for C# with functions to Insert and Print(PreOrder, InOrder, PostOrder).
+  - Features to removing node from the Tree is comming soon!  
+
+March 19th, 2017
+
   - C# data structure implementation (List, Stack, Queue)
  
 License
