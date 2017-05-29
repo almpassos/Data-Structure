@@ -8,6 +8,11 @@ This repository has my implementation of data struct for many programming langua
 
 # New Features!
 
+May 28th, 2017
+
+  - Add Generic Stack, Queue, List writen Java.
+  - An Integer Tree in Java was added also with functions to Insert and Print(PreOrder, InOrder, PostOrder).
+
 April 11th, 2017
 
   - Add Tree data struct for C# with functions to Insert and Print(PreOrder, InOrder, PostOrder).
